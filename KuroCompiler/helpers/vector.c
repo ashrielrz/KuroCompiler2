@@ -1,4 +1,3 @@
-
 #include "vector.h"
 #include <memory.h>
 #include <stdlib.h>

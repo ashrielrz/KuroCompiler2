@@ -1,4 +1,3 @@
-int main(){
-    
-    return 0;
-}
+(50+20)
+
+int x = 5000L;
